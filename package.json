@@ -1,0 +1,16 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "gopal patil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22"
+  }
+}
